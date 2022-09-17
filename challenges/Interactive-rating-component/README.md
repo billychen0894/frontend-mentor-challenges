@@ -21,8 +21,7 @@ Users should be able to:
 - See the "Thank you" card state after submitting a rating
 
 ### Screenshot
-
-![](./images/screenshot.png =250x) ![](./images/screenshot3.png =250x) ![](./images/screenshot2.png =250x)
+<img src="https://github.com/billychen0894/frontend-mentor-challenges/blob/main/challenges/Interactive-rating-component/images/screenshot.png" width="250"> <img src="https://github.com/billychen0894/frontend-mentor-challenges/blob/main/challenges/Interactive-rating-component/images/screenshot3.png" width="250"> <img src="https://github.com/billychen0894/frontend-mentor-challenges/blob/main/challenges/Interactive-rating-component/images/screenshot2.png" width="250">
 
 ## My process
 
