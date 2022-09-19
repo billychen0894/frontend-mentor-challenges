@@ -1,4 +1,4 @@
-# Frontend Mentor - Interactive rating component solution
+# Interactive rating component
 
 ## Table of contents
 
